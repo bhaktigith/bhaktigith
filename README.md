@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhaktigith
 - 👀 I’m interested in AI especially NLP
-- 🌱 I’m currently learning CI/CD pipeline creation
+- 🌱 I’m currently learning CI/CD pipeline 
 - 💞️ I’m looking to collaborate on knowledge creation
 <!--- 📫 How to reach me ... --->
 
